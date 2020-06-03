@@ -1,2 +1,1 @@
-Alt + x kill-whole-line 【 Ctrl + Shift + Backspace 】
-Cut command ( kill-ring-save 【 Alt + w 】) 
+C-k C-w M-d
